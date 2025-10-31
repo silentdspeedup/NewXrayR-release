@@ -12,7 +12,7 @@ Find the source code here: [silentdspeedup/NewXrayR](https://github.com/silentds
 # 一键安装
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/XrayR-project/XrayR-release/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/silentdspeedup/NewXrayR-release/refs/heads/main/install.sh)
 ```
 # Docker 安装 (已禁用)
 
